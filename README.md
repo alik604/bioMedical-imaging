@@ -89,6 +89,6 @@ VP of Cognitive Science Student Society. Member of the Robot Soccer CluSb, and F
 
 Data is under the *Database Contents License (DbCL) v1.0*
 
-Stuff that is mine to License, and License-able is used the, [MIT](https://choosealicense.com/licenses/mit/). 
+Stuff that is mine to License, and License-able has the [MIT license](https://choosealicense.com/licenses/mit/). 
 
 *if for whatever reason this is inconvenient, fell free to open a **issue** with the reason(s), and i’ll consider changing the License to the **Unlicense*** 
