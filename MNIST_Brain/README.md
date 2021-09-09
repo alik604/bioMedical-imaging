@@ -19,7 +19,7 @@
 I really wanted to get this working, I wanted to achieve at least 25% accuracy. 
 Unfortunately I have not scene any team or paper achieve more then about 12.5% accuracy. I'm not sure if its even possible to do better. 
 
-* I did learn a lot about Digital signal processing and EEG data. I one attempt, as I recall, I only keep 52hz & 55hz data. 
+* I did learn a lot about Digital signal processing and EEG data. I on one attempt, as I recall, keep only 52hz & 55hz data. Keeping all data was probably a mistake. 
 * I also learned how to make a Bidirectional CuDNNLSTM
 
 I opened a few issues asking for help & clarification, in a few repositories. Unfortunately no one responded. I think it is now time to call it quits.    
